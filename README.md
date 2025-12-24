@@ -1,4 +1,4 @@
-Hi Folks! I’m Shivani, currently pursuing my BCA from Nalanda Institute. I have a deep passion for data science and a strong grasp of machine learning algorithms. This project is part of my journey to explore and apply data science techniques to real-world problems. In this project, I developed a logistic regression model to predict the Progesterone Status in breast cancer patients.
+Hi Folks! I’m Shivani, currently pursuing my MBA from JNTU . I have a deep passion for data science and a strong grasp of machine learning algorithms. This project is part of my journey to explore and apply data science techniques to real-world problems. In this project, I developed a logistic regression model to predict the Progesterone Status in breast cancer patients.
 
 Overview
 This project involves building a logistic regression model to predict the Progesterone Status of breast cancer patients based on various clinical and demographic features. The dataset used for this project includes features such as age, race, marital status, tumor size, and other relevant clinical information.
